@@ -7,15 +7,15 @@ This project applies in silico approaches to identify novel inhibitors of NDM-1 
 
  Objectives
 
-Retrieve and prepare the NDM-1 target protein (PDB: 6NY7)
+  Retrieve and prepare the NDM-1 target protein (PDB: 6NY7)
 
-Screen standard ligands and sulfonamide derivatives for inhibitory potential
+  Screen standard ligands and sulfonamide derivatives for inhibitory potential
 
-Perform molecular docking studies using AutoDock Vina
+  Perform molecular docking studies using AutoDock Vina
 
-Predict pharmacokinetic and toxicity profiles through ADMET analysis
+  Predict pharmacokinetic and toxicity profiles through ADMET analysis
 
-Evaluate the dynamic stability of ligand–protein complexes using 100 ns MD simulations in GROMACS
+  Evaluate the dynamic stability of ligand–protein complexes using 100 ns MD simulations in GROMACS
 
  Methodology
 Protein and Ligand Preparation
