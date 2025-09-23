@@ -17,7 +17,7 @@ Predict pharmacokinetic and toxicity profiles through ADMET analysis
 
 Evaluate the dynamic stability of ligand–protein complexes using 100 ns MD simulations in GROMACS
 
-🛠️ Methodology
+ Methodology
 Protein and Ligand Preparation
 
 Target protein retrieved from the Protein Data Bank (PDB ID: 6NY7)
