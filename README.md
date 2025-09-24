@@ -1,3 +1,5 @@
+https://www.biorxiv.org/content/10.1101/2025.08.16.670670v1
+
 In Silico Discovery of NDM-1 Metallo-β-Lactamase Inhibitors for Klebsiella pneumoniae
 
  Overview
